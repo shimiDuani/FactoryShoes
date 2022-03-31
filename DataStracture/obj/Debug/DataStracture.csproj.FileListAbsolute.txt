@@ -1,0 +1,6 @@
+C:\Users\shimi\source\repos\ProjectShoesFactory1\DataStracture\bin\Debug\DataStracture.dll
+C:\Users\shimi\source\repos\ProjectShoesFactory1\DataStracture\bin\Debug\DataStracture.pdb
+C:\Users\shimi\source\repos\ProjectShoesFactory1\DataStracture\obj\Debug\DataStracture.csproj.AssemblyReference.cache
+C:\Users\shimi\source\repos\ProjectShoesFactory1\DataStracture\obj\Debug\DataStracture.csproj.CoreCompileInputs.cache
+C:\Users\shimi\source\repos\ProjectShoesFactory1\DataStracture\obj\Debug\DataStracture.dll
+C:\Users\shimi\source\repos\ProjectShoesFactory1\DataStracture\obj\Debug\DataStracture.pdb

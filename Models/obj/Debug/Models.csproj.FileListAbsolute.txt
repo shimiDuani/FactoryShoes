@@ -1,0 +1,11 @@
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\bin\Debug\Models.dll
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\bin\Debug\Models.pdb
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\obj\Debug\Models.dll
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\obj\Debug\Models.pdb
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\bin\Debug\DataStracture.dll
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\bin\Debug\EntityFramework.dll
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\bin\Debug\DataStracture.pdb
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\bin\Debug\EntityFramework.xml
+C:\Users\shimi\source\repos\ProjectShoesFactory1\Models\obj\Debug\Models.csproj.CopyComplete

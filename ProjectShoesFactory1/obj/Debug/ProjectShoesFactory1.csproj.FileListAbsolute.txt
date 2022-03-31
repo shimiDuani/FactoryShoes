@@ -1,0 +1,14 @@
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\bin\Debug\ProjectShoesFactory1.exe
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\bin\Debug\ProjectShoesFactory1.pdb
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\bin\Debug\DataStracture.dll
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\bin\Debug\Logic.dll
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\bin\Debug\Models.dll
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\bin\Debug\DataStracture.pdb
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\bin\Debug\Logic.pdb
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\bin\Debug\Models.pdb
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\obj\Debug\ProjectShoesFactory1.csproj.AssemblyReference.cache
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\obj\Debug\ProjectShoesFactory1.csproj.CoreCompileInputs.cache
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\obj\Debug\ProjectShoesFactory1.csproj.CopyComplete
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\obj\Debug\ProjectShoesFactory1.exe
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\obj\Debug\ProjectShoesFactory1.pdb
+C:\Users\shimi\source\repos\ProjectShoesFactory1\ProjectShoesFactory1\obj\Debug\ProjectShoesFactory1.csproj.SuggestedBindingRedirects.cache
